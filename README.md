@@ -1,23 +1,3 @@
-# Contractor
-## Canada
-- [Starting a Business in Canada](https://www.canada.ca/en/services/business/start.html)
-- [Ontario Business Registry](https://www.ontario.ca/page/ontario-business-registry)
-- [Canada's Business Registries](https://beta.canadasbusinessregistries.ca/search) database of companies
-- [GST/HST Taxes](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/gst-hst-businesses.html)
-- [NRC IRAP, Support for Tech Innovation](https://nrc.canada.ca/en/support-technology-innovation)
-
-## Jobs
-- [FreeLancer](https://www.freelancer.com/)
-- [UpWork](https://www.upwork.com/)
-- [Fiverr](https://www.fiverr.com/)
-- [Toptal](https://www.toptal.com/)
-- [AlphaSights](https://www.alphasights.com/) consulting company hires contractors for AI
-- [Meta Contracting Roles](https://ca.meta.talentnet.community/)
-
-## Examples
-- [BearSight](https://bearsight.com/) adam's cousin consulting company
-- [Donn Felker](https://www.donnfelker.com/) popular contractor with lots of content on how to succeed
-
 # Tools
 ## Website Creation
 - [Carrd](https://carrd.co/) easy to use, website creator (*)
