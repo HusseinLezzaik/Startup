@@ -29,6 +29,7 @@
 - [Aman Arora Github.io Template](https://github.com/amaarora/amaarora.github.io)
 
 ## Email
+- Go Daddy
 - [Google Workspace](https://workspace.google.com/intl/en_ca/) custom email
 
 ## Pay
