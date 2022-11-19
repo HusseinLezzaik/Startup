@@ -90,3 +90,6 @@
 - Hacker News
 - Product Hunt
 - Talks
+
+## Culture
+- [Red Book, Fcb](https://twitter.com/amasad/status/1586758290641285120)
