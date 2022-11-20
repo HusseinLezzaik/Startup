@@ -1,7 +1,9 @@
 # Tools
 ## Website Creation
+### Templates
+- [FastAI Template](https://www.fast.ai/2020/01/16/fast_template/)
+
 - [Carrd](https://carrd.co/) easy to use, website creator (*)
-- [Google Feedburner](https://feedburner.google.com/fb/a/myfeeds)
 - [Frameworks Documentation](https://squidfunk.github.io/mkdocs-material/)
 - [Code Documentation](https://readthedocs.org/)
 - [Gatsby Starter Blog](https://github.com/gatsbyjs/gatsby-starter-blog)
@@ -11,26 +13,30 @@
 - [Pages Github](https://pages.github.com/)
 - [Math Plots](https://dpananos.github.io/)
 - [Meta Engineer Template](https://github.com/d4l3k/fn.lc)
-- [FastAI Template](https://www.fast.ai/2020/01/16/fast_template/)
-- [Domains Google](https://www.domains.google.com)
 - [Jam Stack Themes](https://jamstackthemes.dev/)
 - [Github Pages Minimal Starter](https://github.com/jsanz/gh-pages-minima-starter # minima)
 - [Al-Folio Jekyll theme for Academics](https://github.com/alshedivat/al-folio)
 - [Gitub Pages with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
 - [Nerfies Website Template](https://github.com/nerfies/nerfies.github.io)
-- WordPress
-- Wix
-- Substack
 - Google Sites (for workshops)
-- Notion
 - [Super.so](https://super.so/) notion for websites
 - [Aman Arora Github.io Template](https://github.com/amaarora/amaarora.github.io)
+
+### Services
+- [WordPress](https://wordpress.com/)
+- [Wix](https://www.wix.com/)
+- [Notion](https://www.notion.so/)
 
 ### Sample Sites
 - [Jon Barron](https://github.com/jonbarron/website)
 
+### RSS
+- [Google Feedburner](https://feedburner.google.com/fb/a/myfeeds)
+
 ## Domain Name
+- [Domains Google](https://domains.google.com/registrar/)
 - [Uniregistry](https://uniregistry.com/)
+
 
 ## Email
 - Go Daddy
