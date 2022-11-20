@@ -1,0 +1,51 @@
+## Investing Firms | Private Equity
+- [Franklin Templeton](https://www.franklintempleton.ca/en-ca)
+- [Brookfiled](https://www.brookfield.com/) Global Asset Manager in Construction, Real Estate
+- [Baron Funds](https://www.baronfunds.com/) running by Ron Baron Investor in Tesla
+- [Soft Bank](https://visionfund.com/)
+- [BlackStone](https://www.blackstone.com/)
+- [Zhen Fund](https://en.zhenfund.com/)
+- [Appolo Management](https://www.apollo.com/) private equity
+- [Brookfield , Global Asset Management](https://www.brookfield.com/) real-estate
+- [CppInvestments](https://www.cppinvestments.com/) Canadian Pension Plans
+- Chamath Palihapitiya, Founder of Social Capital, Canadian 
+
+## VC
+- [YC](https://www.ycombinator.com/)
+- [South Park Commons](https://www.southparkcommons.com/)
+- [Antler](https://www.antler.co/canada) focus in Canada
+- [Radical Ventures](https://radical.vc/) toronto
+- [Amplify Partners](https://www.amplifypartners.com/) early-stage VC
+- [Spark Capital](https://www.sparkcapital.com/)
+- [Andreessen Horowitz](https://a16z.com/)
+- [Lux Capital](https://luxcapital.com/)
+- [SV Angel](https://www.svangel.com/)
+- [Initialized](https://initialized.com/)
+- [TechStars](https://www.techstars.com/)
+- [Accel](https://www.accel.com/)
+- [Funders Club](https://fundersclub.com/)
+- [Acequia Capital](https://www.acecap.com/)
+- [General Catalyst](https://www.generalcatalyst.com/)
+- [First Round](https://firstround.com/)
+- [Khosla Ventures](https://www.khoslaventures.com/)
+- [Kleiner Perkins](https://www.kleinerperkins.com/)
+- [CapitalG](https://www.capitalg.com/) formerly Google Capital
+- [Next-36](https://www.nextcanada.com/next-36/)
+- [Alphabet Inc.](https://abc.xyz/) google's parent company
+- [Sequoia Capital](https://www.sequoiacap.com/)
+- [Social Capital](https://www.socialcapital.com/)
+- [Craft Ventures](https://twitter.com/craft_ventures?s=21&t=zr6p8uHEtokwykhRXzXNjw)
+
+## Investors
+- [Delian Asparouhov](http://delian.io/portfolio)
+- Ron Baron
+- [Ron Conway](https://svangel.com/)
+- John Paulson
+- Jon Gray (BlackStone)
+- John Doer 
+- Nelson Peltz
+- Vinod Kholsa 
+- Ken Griffin (Citadel's Fund)
+- Bruce Flatt (Brookfield)
+- Marc Rowan (Apollo Management)
+- [Delian](http://delian.io/)
