@@ -2,7 +2,6 @@
 ## Website Creation
 - [Carrd](https://carrd.co/) easy to use, website creator (*)
 - [Google Feedburner](https://feedburner.google.com/fb/a/myfeeds)
-- [Jon Barron Website](https://github.com/jonbarron/website)
 - [Frameworks Documentation](https://squidfunk.github.io/mkdocs-material/)
 - [Code Documentation](https://readthedocs.org/)
 - [Gatsby Starter Blog](https://github.com/gatsbyjs/gatsby-starter-blog)
@@ -25,8 +24,10 @@
 - Google Sites (for workshops)
 - Notion
 - [Super.so](https://super.so/) notion for websites
-- Go Daddy for Email
 - [Aman Arora Github.io Template](https://github.com/amaarora/amaarora.github.io)
+
+### Sample Sites
+- [Jon Barron](https://github.com/jonbarron/website)
 
 ## Domain Name
 - [Uniregistry](https://uniregistry.com/)
