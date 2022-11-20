@@ -28,6 +28,9 @@
 - Go Daddy for Email
 - [Aman Arora Github.io Template](https://github.com/amaarora/amaarora.github.io)
 
+## Domain Name
+- [Uniregistry](https://uniregistry.com/)
+
 ## Email
 - Go Daddy
 - [Google Workspace](https://workspace.google.com/intl/en_ca/) custom email
