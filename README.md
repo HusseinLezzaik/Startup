@@ -46,6 +46,7 @@
 ## Email
 - Go Daddy
 - [Google Workspace](https://workspace.google.com/intl/en_ca/) custom email
+- info@yourcompany.com
 
 ## Pay
 - [Deel](https://www.deel.com/) pay anyone, anywhere
