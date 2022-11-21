@@ -33,10 +33,12 @@
 ### RSS
 - [Google Feedburner](https://feedburner.google.com/fb/a/myfeeds)
 
+## Brand Name
+- [How to Create a Brand Name](https://www.youtube.com/watch?v=rzbXht7MJVM)
+
 ## Domain Name
 - [Domains Google](https://domains.google.com/registrar/)
 - [Uniregistry](https://uniregistry.com/)
-
 
 ## Email
 - Go Daddy
