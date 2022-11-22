@@ -49,3 +49,4 @@
 - Bruce Flatt (Brookfield)
 - Marc Rowan (Apollo Management)
 - [Delian](http://delian.io/)
+- [Elad Gil](http://www.eladgil.com/)
