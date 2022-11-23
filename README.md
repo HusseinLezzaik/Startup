@@ -1,6 +1,6 @@
 # Tools
-## Website Creation
-### Templates
+### Website Creation
+#### Templates
 - [FastAI Template](https://www.fast.ai/2020/01/16/fast_template/)
 
 - [Carrd](https://carrd.co/) easy to use, website creator (*)
@@ -22,64 +22,64 @@
 - [Super.so](https://super.so/) notion for websites
 - [Aman Arora Github.io Template](https://github.com/amaarora/amaarora.github.io)
 
-### Services
+#### Services
 - [WordPress](https://wordpress.com/)
 - [Wix](https://www.wix.com/)
 - [Notion](https://www.notion.so/)
 
-### Sample Sites
+#### Sample Sites
 - [Jon Barron](https://github.com/jonbarron/website)
 
-### RSS
+#### RSS
 - [Google Feedburner](https://feedburner.google.com/fb/a/myfeeds)
 
-## Logo
+### Logo
 - [How to Create an Iconic Logo](https://youtu.be/kM5ScBw_JEk)
 
-## Brand Name
+### Brand Name
 - [How to Create a Brand Name](https://www.youtube.com/watch?v=rzbXht7MJVM)
 
-## Domain Name
+### Domain Name
 - [Domains Google](https://domains.google.com/registrar/)
-- [Uniregistry](https://uniregistry.com/)
+- [GoDaddy](https://www.godaddy.com/en-ca)
 
-## Email
+### Email
 - Go Daddy
-- [Google Workspace](https://workspace.google.com/intl/en_ca/) custom email
+- [Google Workspace](https://workspace.google.com/intl/en_ca/) 
 - info@yourcompany.com
 
-## Pay
+### Pay
 - [Deel](https://www.deel.com/) pay anyone, anywhere
 - [Patreon](https://www.patreon.com/) for sponsorships
 
-## Code
+### Code
 - [Github]()
 - Gitlab
 
-## Number
+### Number
 - 1-800-My-Apple
 
-## Communication
+### Communication
 - Discord
 - Slack
 
-## Design Stuff
+### Design Stuff
 - [Canva](https://www.canva.com/)
 
-## Sales
+### Sales
 - [GumRoad](https://gumroad.com/)
 
-## Copyright
+### Copyright
 - [Copy.ai](https://www.copy.ai/)
 
-## Management
+### Management
 - [Notion](https://www.notion.so/)
 
-## Hiring
+### Hiring
 - LinkedIn
 - Lever
 
-## Marketing
+### Marketing
 - YouTube
 - Twitter 
 - Blogs
@@ -89,8 +89,8 @@
 - Product Hunt
 - Talks
 
-## Culture
+### Culture
 - [Red Book, Fcb](https://twitter.com/amasad/status/1586758290641285120)
 
-## RSS Reader
+### RSS Reader
 - [Feedbin](https://feedbin.com/)
