@@ -43,10 +43,10 @@
 - [Domains Google](https://domains.google.com/registrar/)
 - [GoDaddy](https://www.godaddy.com/en-ca)
 
-### Email
+### Email (info@yourcompany.com)
 - Go Daddy
 - [Google Workspace](https://workspace.google.com/intl/en_ca/) 
-- info@yourcompany.com
+- Microsoft
 
 ### Pay
 - [Deel](https://www.deel.com/) pay anyone, anywhere
