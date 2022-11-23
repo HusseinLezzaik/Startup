@@ -1,10 +1,16 @@
-### Code
+### CI/CD
+- Jenkins
+- Github Actions
+- Circle CI
+
+### Version Control
 - [Github]()
 - Gitlab
 
 ### Communication
 - Discord
 - Slack
+- MS Teams
 
 ### Hiring
 - LinkedIn
@@ -14,7 +20,7 @@
 - [Notion](https://www.notion.so/)
 
 ### Culture
-- [Red Book, Fcb](https://twitter.com/amasad/status/1586758290641285120)
+- [Red Book](https://twitter.com/amasad/status/1586758290641285120) facebook
 - People write great code have highest priority, engineering at core of product
 - more: speed, iteration, quality, show your work
 - less: recurring meetings, anything that effects work on product
