@@ -1,5 +1,6 @@
 ### CI/CD
 - Jenkins
+- Ansible
 - Github Actions
 - Circle CI
 
