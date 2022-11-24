@@ -25,3 +25,5 @@
 - People write great code have highest priority, engineering at core of product
 - more: speed, iteration, quality, show your work
 - less: recurring meetings, anything that effects work on product
+- Smaller teams is better
+- Only limits is the laws of physics
