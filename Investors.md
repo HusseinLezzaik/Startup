@@ -50,3 +50,5 @@
 - Marc Rowan (Apollo Management)
 - [Delian](http://delian.io/)
 - [Elad Gil](http://www.eladgil.com/)
+- [Nat Friedman](https://nat.org/) tech companies investor
+- [Daniel Gross](https://dcgross.com/) tech
