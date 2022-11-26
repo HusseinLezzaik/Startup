@@ -19,4 +19,5 @@
 - Hacker News
 - Product Hunt
 - Talks
+- Google Search
 
