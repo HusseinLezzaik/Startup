@@ -10,3 +10,4 @@
 3. Synthetic Biology
 4. BioTech
 5. Robotics
+6. Biomedical Robotics
