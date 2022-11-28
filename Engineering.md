@@ -27,3 +27,4 @@
 - less: recurring meetings, anything that effects work on product
 - Smaller teams is better
 - Only limits is the laws of physics
+- Managers should know how to write great code
