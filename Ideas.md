@@ -1,9 +1,10 @@
 # Ideas
 1. AI Assistants (Dr, Bank Expert, Math, etc)
 2. Gaining experience to find an internship or job: OS job that's paid
-3. Contracting Business (does deployments and implementations)
-4. Frameworks & Tools for AI
-5. Robotics Operating System (Better than ROS)
+3. Detecting what's real/fake and authentication
+4. Contracting Business (does deployments and implementations)
+5. Frameworks & Tools for AI
+6. Robotics Operating System (Better than ROS)
 
 # Industry
 1. AI
