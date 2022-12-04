@@ -7,6 +7,7 @@
 6. Frameworks & Tools for AI 
 7. A New Robotics Operating System (Better than ROS)
 8. Help less represented people gain more exposure
+9. Mentors to help teach you anything
 
 # Industry
 1. AI
