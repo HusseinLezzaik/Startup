@@ -12,6 +12,7 @@
 
 ## VC
 - [YC](https://www.ycombinator.com/)
+- [Pioneer](https://pioneer.app/) accelerator in silicon valley by daniel gross
 - [South Park Commons](https://www.southparkcommons.com/)
 - [Antler](https://www.antler.co/canada) focus in Canada
 - [Radical Ventures](https://radical.vc/) toronto
