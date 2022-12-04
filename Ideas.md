@@ -8,6 +8,7 @@
 7. A New Robotics Operating System (Better than ROS)
 8. Help less represented people gain more exposure
 9. Mentors to help teach you anything
+10. AI Consultant ex. as a Lawyer, Accountant
 
 # Industry
 1. AI
