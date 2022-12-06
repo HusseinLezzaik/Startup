@@ -36,6 +36,7 @@
 - [Sequoia Capital](https://www.sequoiacap.com/)
 - [Social Capital](https://www.socialcapital.com/)
 - [Craft Ventures](https://twitter.com/craft_ventures?s=21&t=zr6p8uHEtokwykhRXzXNjw)
+- [Initialized](https://initialized.com/) Garry Tan's VC Tech
 
 ## Investors
 - [Delian Asparouhov](http://delian.io/portfolio)
@@ -54,3 +55,4 @@
 - [Nat Friedman](https://nat.org/) tech companies investor
 - [Daniel Gross](https://dcgross.com/) tech
 - Peter Thiel
+- [Garry Tan](https://twitter.com/garrytan)
