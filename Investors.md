@@ -4,6 +4,7 @@
 - [Baron Funds](https://www.baronfunds.com/) running by Ron Baron Investor in Tesla
 - [Soft Bank](https://visionfund.com/)
 - [BlackStone](https://www.blackstone.com/)
+- [Black Rock](https://www.blackrock.com/ca)
 - [Zhen Fund](https://en.zhenfund.com/)
 - [Appolo Management](https://www.apollo.com/) private equity
 - [Brookfield , Global Asset Management](https://www.brookfield.com/) real-estate
