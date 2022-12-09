@@ -10,6 +10,7 @@
 - [Brookfield , Global Asset Management](https://www.brookfield.com/) real-estate
 - [CppInvestments](https://www.cppinvestments.com/) Canadian Pension Plans
 - Chamath Palihapitiya, Founder of Social Capital, Canadian 
+- [ARKInvest](https://linktr.ee/ARKInvest) investment advisor
 
 ## VC
 - [YC](https://www.ycombinator.com/)
