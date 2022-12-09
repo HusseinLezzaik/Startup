@@ -9,6 +9,7 @@
 8. Help less represented people gain more exposure
 9. Mentors to help teach you anything
 10. AI Consultant ex. as a Lawyer, Accountant
+11. Chatbot engineers that help SWE operate on high creative level
 
 # Industry
 1. AI
