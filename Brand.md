@@ -1,6 +1,9 @@
 ### Number
 - 1-800-My-Apple
 
+### Namespace
+- IBSians, Googlers
+
 ### Email (info@yourcompany.com)
 - [GoDaddy](https://www.godaddy.com/en-ca)
 - [Google Workspace](https://workspace.google.com/intl/en_ca/) 
