@@ -9,7 +9,14 @@
 ## How We Interview
 - coding questions 
 - pair programming
-- 
+- value alignment
+
+## Benefits
+- Competitive base salary
+- Equity options
+- Dental and Vision Insurance
+- Remote setup
+- Unlimited PTO
 
 ## Application
 - CV
