@@ -25,3 +25,4 @@
 - Talks
 - Google Search
 - Featured Contributor
+- AI Day
