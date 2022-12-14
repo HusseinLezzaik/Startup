@@ -13,6 +13,7 @@
 ### Marketing
 - YouTube
 - Twitter 
+- Instagram
 - Blogs
 - Newsletter
 - [Buffer](https://buffer.start.page/)
@@ -20,4 +21,4 @@
 - Product Hunt
 - Talks
 - Google Search
-
+- Featured Contributor
