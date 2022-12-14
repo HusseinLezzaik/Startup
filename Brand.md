@@ -16,13 +16,12 @@
 ### Marketing
 - YouTube
 - Twitter 
-- Instagram (fun)
+- Instagram
 - Blogs
 - Newsletter
-- [Buffer](https://buffer.start.page/)
-- Hacker News
+- HackerNews
 - Product Hunt
 - Talks
 - Google Search
-- Featured Contributor
 - AI Day
+- [Buffer](https://buffer.start.page/)
