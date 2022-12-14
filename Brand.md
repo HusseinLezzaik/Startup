@@ -16,7 +16,7 @@
 ### Marketing
 - YouTube
 - Twitter 
-- Instagram
+- Instagram (fun)
 - Blogs
 - Newsletter
 - [Buffer](https://buffer.start.page/)
