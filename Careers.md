@@ -21,7 +21,7 @@
 ## Application
 - CV
 - What exceptional work have you done in software, hardware or AI?
-- emai
+- email
 
 # Websites
 - [Lever](https://www.lever.co/) 
