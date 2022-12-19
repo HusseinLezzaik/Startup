@@ -16,6 +16,7 @@
 - [YC](https://www.ycombinator.com/)
 - [Pioneer](https://pioneer.app/) accelerator in silicon valley by daniel gross
 - [South Park Commons](https://www.southparkcommons.com/)
+- [HF0](https://www.hf0.com/) incubator
 - [Antler](https://www.antler.co/canada) focus in Canada
 - [Radical Ventures](https://radical.vc/) toronto
 - [Amplify Partners](https://www.amplifypartners.com/) early-stage VC
