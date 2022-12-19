@@ -10,6 +10,7 @@
 9. Mentors to help teach you anything
 10. AI Consultant ex. as a Lawyer, Accountant
 11. Chatbot engineers that help SWE operate on high creative level
+12. Buy anything, anywhere
 
 # Industry
 1. AI
