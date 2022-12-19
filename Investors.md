@@ -18,6 +18,7 @@
 - [South Park Commons](https://www.southparkcommons.com/)
 - [HF0](https://www.hf0.com/) incubator
 - [Antler](https://www.antler.co/canada) focus in Canada
+- [Longevity](https://www.longevity.vc/) fund age-related problems
 - [Radical Ventures](https://radical.vc/) toronto
 - [Amplify Partners](https://www.amplifypartners.com/) early-stage VC
 - [Spark Capital](https://www.sparkcapital.com/)
