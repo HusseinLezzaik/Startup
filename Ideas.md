@@ -11,6 +11,7 @@
 10. AI Consultant ex. as a Lawyer, Accountant
 11. Chatbot engineers that help SWE operate on high creative level
 12. Buy anything, anywhere
+13. Make telecommunication cheap in Canada
 
 # Industry
 1. AI
@@ -18,4 +19,4 @@
 3. Synthetic Biology
 4. BioTech
 5. Robotics
-6. Biomedical Robotics
+6. 5G 
