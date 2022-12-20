@@ -12,6 +12,8 @@
 11. Chatbot engineers that help SWE operate on high creative level
 12. Buy anything, anywhere
 13. Make telecommunication cheap in Canada
+14. Realestate: make housing affordable for all, fix system
+15. Fix government resources allocation in capital 
 
 # Industry
 1. AI
