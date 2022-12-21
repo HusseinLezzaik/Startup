@@ -1,3 +1,29 @@
-## Incubator
-- YC
-- Antler
+## Incubator | Accelerator
+- [YC](https://www.ycombinator.com/)
+- [Pioneer](https://pioneer.app/) accelerator in silicon valley by daniel gross
+- [South Park Commons](https://www.southparkcommons.com/)
+- [HF0](https://www.hf0.com/) incubator
+- [Antler](https://www.antler.co/canada) focus in Canada
+- [Longevity](https://www.longevity.vc/) fund age-related problems
+- [Radical Ventures](https://radical.vc/) toronto
+- [Amplify Partners](https://www.amplifypartners.com/) early-stage VC
+- [Spark Capital](https://www.sparkcapital.com/)
+- [Andreessen Horowitz](https://a16z.com/)
+- [Lux Capital](https://luxcapital.com/)
+- [SV Angel](https://www.svangel.com/)
+- [Initialized](https://initialized.com/)
+- [TechStars](https://www.techstars.com/)
+- [Accel](https://www.accel.com/)
+- [Funders Club](https://fundersclub.com/)
+- [Acequia Capital](https://www.acecap.com/)
+- [General Catalyst](https://www.generalcatalyst.com/)
+- [First Round](https://firstround.com/)
+- [Khosla Ventures](https://www.khoslaventures.com/)
+- [Kleiner Perkins](https://www.kleinerperkins.com/)
+- [CapitalG](https://www.capitalg.com/) formerly Google Capital
+- [Next-36](https://www.nextcanada.com/next-36/)
+- [Alphabet Inc.](https://abc.xyz/) google's parent company
+- [Sequoia Capital](https://www.sequoiacap.com/)
+- [Social Capital](https://www.socialcapital.com/)
+- [Craft Ventures](https://twitter.com/craft_ventures?s=21&t=zr6p8uHEtokwykhRXzXNjw)
+- [Initialized](https://initialized.com/) Garry Tan's VC Tech
