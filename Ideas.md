@@ -14,6 +14,7 @@
 13. Make telecommunication cheap in Canada
 14. Realestate: make housing affordable for all, fix system
 15. Fix government resources allocation in capital 
+16. Generate scientific discovery using AI
 
 # Industry
 1. AI
