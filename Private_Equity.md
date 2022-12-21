@@ -1,0 +1,13 @@
+## Investing Firms | Private Equity
+- [Franklin Templeton](https://www.franklintempleton.ca/en-ca)
+- [Brookfiled](https://www.brookfield.com/) Global Asset Manager in Construction, Real Estate
+- [Baron Funds](https://www.baronfunds.com/) running by Ron Baron Investor in Tesla
+- [Soft Bank](https://visionfund.com/)
+- [BlackStone](https://www.blackstone.com/)
+- [Black Rock](https://www.blackrock.com/ca)
+- [Zhen Fund](https://en.zhenfund.com/)
+- [Appolo Management](https://www.apollo.com/) private equity
+- [Brookfield , Global Asset Management](https://www.brookfield.com/) real-estate
+- [CppInvestments](https://www.cppinvestments.com/) Canadian Pension Plans
+- Chamath Palihapitiya, Founder of Social Capital, Canadian 
+- [ARKInvest](https://linktr.ee/ARKInvest) investment advisor
