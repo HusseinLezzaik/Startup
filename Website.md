@@ -27,12 +27,6 @@
 ### Sample Sites
 - [Jon Barron](https://github.com/jonbarron/website)
 
-### Logo
-- [How to Create an Iconic Logo](https://youtu.be/kM5ScBw_JEk)
-
-### Brand Name
-- [How to Create a Brand Name](https://www.youtube.com/watch?v=rzbXht7MJVM)
-
 ### RSS
 - [Google Feedburner](https://feedburner.google.com/fb/a/myfeeds)
 
