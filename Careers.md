@@ -25,3 +25,5 @@
 
 ## Websites
 - [Lever](https://www.lever.co/) 
+- LinkedIn
+- Glassdoor
