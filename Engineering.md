@@ -13,9 +13,5 @@
 - Slack
 - MS Teams
 
-### Hiring
-- LinkedIn
-- Lever
-
 ### Management
 - [Notion](https://www.notion.so/)
