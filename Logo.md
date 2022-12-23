@@ -38,8 +38,8 @@
 - Little influence on being a billion dollar 
 - Don't make a logo too complex that won't last
 - You create customer experience that reflects in your logo
-- Nike paid 
-- Twitter paid 
+- Nike paid 35$
+- Twitter paid 15$
 - Obama campaign paids millions for logo
 
 How to Create an Iconic Logo: https://youtu.be/kM5ScBw_JEk
