@@ -24,7 +24,6 @@
 - Reflect imaging and meaning back to their brand
 - Ex: Amazon, SiriusXM, RedBull
 6. Non-English:
-- Samsumg means 3 starts in Korean, Lego means play well in Dainish 
 - Ex: Samsumg, Zappos, LEGO, hulu 
 7. Abstract:
 - No actual meaning, but rely on power of phoenetics to create powerful brand names
@@ -32,10 +31,19 @@
 
 ## Example
 - YCombinator: function that runs other functions
-- Nike: Greek philosipher
-- Google: search algorithm
-- Tesla: Nikola Tesla
-- alphabet: alpha-bet, worlds knowledge
-- <Family> GROUP
+- Nike: Greek philosipher, is about winning
+- GoPro: heroisim
+- Google: math term one with a hundred zeros, to organize the worlds information
+- Tesla: inpspired Nikola Tesla
+- Alphabet: encourages wall street investors alpha-bet, set of letters that forms the worlds knowledge
+- Amazon: the amazon in south america is the worlds largest river, therefore the earth biggest selection of books, clothes, etc
+- RedBull: associates with a bull like qualities like power and confidence
+- Apple: simplicity, usability
+- Samsumg: means three stars in Koorean
+- LEGO: means play well in Dainish 
+- American Airlines: tells you exactly what it is
+- Stripe: /dev/payments, then Stripe
+- Uber: means an outstanding example looks good for a company with big ambitions, directly from dictionary
+- FAMILY_NAME GROUP
   
 How to Create a Brand Name: https://www.youtube.com/watch?v=rzbXht7MJVM
