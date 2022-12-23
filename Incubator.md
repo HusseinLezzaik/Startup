@@ -1,4 +1,4 @@
-## Incubator | Accelerator
+## Incubator | Accelerator | VCs
 - [YC](https://www.ycombinator.com/)
 - [Pioneer](https://pioneer.app/) accelerator in silicon valley by daniel gross
 - [South Park Commons](https://www.southparkcommons.com/)
@@ -27,3 +27,4 @@
 - [Social Capital](https://www.socialcapital.com/)
 - [Craft Ventures](https://twitter.com/craft_ventures?s=21&t=zr6p8uHEtokwykhRXzXNjw)
 - [Initialized](https://initialized.com/) Garry Tan's VC Tech
+- [Stripe Atlas](https://stripe.com/en-ca/atlas) turn your idea into a startup
