@@ -1,3 +1,5 @@
+- [How to Create a Brand Name](https://www.youtube.com/watch?v=rzbXht7MJVM)
+
 ## Company Name
 - YCombinator: function that runs other functions
 - Nike: Greek philosipher
