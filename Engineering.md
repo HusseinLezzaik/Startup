@@ -1,17 +1,12 @@
-### CI/CD
+## CI/CD
 - Jenkins
 - Ansible
 - Github Actions
 - Circle CI
 
-### Version Control
+## Version Control
 - [Github]()
 - Gitlab
 
-### Communication
-- Discord
-- Slack
-- MS Teams
-
-### Management
+## Management
 - [Notion](https://www.notion.so/)
