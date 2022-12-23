@@ -3,17 +3,17 @@
 - Ron Baron
 - [Ron Conway](https://svangel.com/)
 - John Paulson
-- Jon Gray (BlackStone)
+- Jon Gray | BlackStone
 - John Doer 
 - Nelson Peltz
 - Vinod Kholsa 
-- Ken Griffin (Citadel's Fund)
-- Bruce Flatt (Brookfield)
-- Marc Rowan (Apollo Management)
+- Ken Griffin | Citadel's Fund
+- Bruce Flatt | Brookfield
+- Marc Rowan | Apollo Management
 - [Delian](http://delian.io/)
 - [Elad Gil](http://www.eladgil.com/)
 - [Nat Friedman](https://nat.org/) tech companies investor
 - [Daniel Gross](https://dcgross.com/) tech
 - Peter Thiel
 - [Garry Tan](https://twitter.com/garrytan)
-- Michael Siebel: michal@ycombinator.com
+- Michael Siebel | michal@ycombinator.com
