@@ -1,4 +1,10 @@
-## Number
+## Steps
+1. Choose a toll-free prefix
+2. Contact a telephone carrier or service provider
+3. Set up routing
+4. Promote your toll-free number
+
+## Examples
 - Apple: 1-800-My-Apple
 - Microsoft: 1-800-MICROSOFT
 - Dell: 1-800-DELL
