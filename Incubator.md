@@ -28,3 +28,5 @@
 - [Craft Ventures](https://twitter.com/craft_ventures?s=21&t=zr6p8uHEtokwykhRXzXNjw)
 - [Initialized](https://initialized.com/) Garry Tan's VC Tech
 - [Stripe Atlas](https://stripe.com/en-ca/atlas) turn your idea into a startup
+- [Next Ventures](https://nextventures.com/)
+- [Samsung Next](https://www.samsungnext.com/)
