@@ -15,6 +15,9 @@
 14. Realestate: make housing affordable for all, fix system
 15. Fix government resources allocation in capital 
 16. Generate scientific discovery using AI
+17. Smart homes
+18. Merging with robots
+19. Talking with animals
 
 # Industry
 1. AI
