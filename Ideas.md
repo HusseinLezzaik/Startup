@@ -20,6 +20,7 @@
 19. Talking with animals
 20. Make banks transactions faster and real-time
 21. Evolving codebases
+22. Fix universities and research system
 
 # Industry
 1. AI
