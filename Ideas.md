@@ -18,6 +18,7 @@
 17. Smart homes
 18. Merging with robots
 19. Talking with animals
+20. Make banks transactions faster and real-time
 
 # Industry
 1. AI
