@@ -21,6 +21,7 @@
 20. Make banks transactions faster and real-time
 21. Evolving codebases
 22. Fix universities and research system
+23. A new programming language
 
 # Industry
 1. AI
