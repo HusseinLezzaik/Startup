@@ -22,6 +22,7 @@
 21. Evolving codebases
 22. Fix universities and research system
 23. A new programming language
+24. Merge brain with compute (like Neuralink), download knowledge into brain, run compute fast
 
 # Industry
 1. AI
