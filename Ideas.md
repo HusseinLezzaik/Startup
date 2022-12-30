@@ -1,4 +1,4 @@
-# Ideas
+## Ideas
 1. AI Assistants (Dr, Bank Expert, Math, etc)
 2. Gaining experience to find an internship or job: OS job that's paid
 3. Detecting what's real/fake AI and authentication of data
@@ -24,9 +24,9 @@
 23. A new programming language
 24. Merge brain with compute (like Neuralink), download knowledge into brain, run compute fast
 25. Make computers much faster for the things that can be automated, ie transform mechanical energy into digital energy. for example bash written to do things we describe in voice
+26. Search in videos and audio
 
-
-# Industry
+## Industry
 1. AI
 2. Energy
 3. Synthetic Biology
