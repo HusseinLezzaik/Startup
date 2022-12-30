@@ -23,6 +23,8 @@
 22. Fix universities and research system
 23. A new programming language
 24. Merge brain with compute (like Neuralink), download knowledge into brain, run compute fast
+25. Make computers much faster for the things that can be automated, ie transform mechanical energy into digital energy. for example bash written to do things we describe in voice
+
 
 # Industry
 1. AI
