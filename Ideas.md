@@ -25,6 +25,7 @@
 24. Merge brain with compute (like Neuralink), download knowledge into brain, run compute fast
 25. Make computers much faster for the things that can be automated, ie transform mechanical energy into digital energy. for example bash written to do things we describe in voice
 26. Search in videos and audio
+27. Make neural networks learn and inference at same time like human brains
 
 ## Industry
 1. AI
