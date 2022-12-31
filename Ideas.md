@@ -2,7 +2,7 @@
 1. AI Assistants (Dr, Bank Expert, Math, etc)
 2. Gaining experience to find an internship or job: OS job that's paid
 3. Detecting what's real/fake AI and authentication of data
-4. Learning French using AI
+4. Make it easy to learn any language
 5. Contracting Business (does deployments and implementations)
 6. Frameworks & Tools for AI 
 7. A New Robotics Operating System (Better than ROS)
