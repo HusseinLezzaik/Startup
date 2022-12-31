@@ -17,6 +17,7 @@
 - Dental and Vision Insurance
 - Remote setup
 - Unlimited PTO
+- Cheff prepared food and lunch
 
 ## Application
 - CV
