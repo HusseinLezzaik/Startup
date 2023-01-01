@@ -28,6 +28,8 @@
 27. Make neural networks learn and inference at same time like human brains
 28. Audio generation of each person voice. Setup by recording your voice for 10min. Can be used on blogs, etc.
 29. Models as a Service, since models training will cost around 500$ in 2030
+30. Cure cancer and other diseases using AI technology
+31. Extend humans life using drugs
 
 ## Industry
 1. AI
