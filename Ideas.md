@@ -30,6 +30,8 @@
 29. Models as a Service, since models training will cost around 500$ in 2030
 30. Cure cancer and other diseases using AI technology
 31. Extend humans life using drugs
+32. Restaurants: Make opening a restaurant easy, using robots. You give us the ingredients, food, and we design robots for you. --
+
 
 ## Industry
 1. AI
