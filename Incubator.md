@@ -31,3 +31,4 @@
 - [Next Ventures](https://nextventures.com/)
 - [Samsung Next](https://www.samsungnext.com/)
 - [STV](https://stv.vc/)
+- [A Junior VC](https://ajuniorvc.com/) india
