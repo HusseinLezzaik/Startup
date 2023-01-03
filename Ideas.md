@@ -30,8 +30,9 @@
 29. Models as a Service, since models training will cost around 500$ in 2030
 30. Cure cancer and other diseases using AI technology
 31. Extend humans life using drugs
-32. Restaurants: Make opening a restaurant easy, using robots. You give us the ingredients, food, and we design robots for you. --
-
+32. Restaurants: Make opening a restaurant easy, using robots. You give us the ingredients, food, and we design robots for you. 
+33. Medicine School: fix the system, make it easier for people to study medicine without having big debt, and make it more of an engineering field
+34. Globalism: make it easier to collaborate in business, ex: mrbeast needs translators in each country that are famous, replit wants famous programming youtubers to create courses, etc
 
 ## Industry
 1. AI
