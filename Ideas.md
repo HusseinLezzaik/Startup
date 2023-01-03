@@ -35,6 +35,7 @@
 34. Globalism: make it easier to collaborate in business, ex: mrbeast needs translators in each country that are famous, replit wants famous programming youtubers to create courses, etc
 35. Build systems that are collaborative instead of acting on their own to make people more productive.
 36. Social networks like Facebook are one-to-one, and Tiktok concept of one-to-many with followers created influencers that people connect with without really knowing them.
+37. Hollywood AI: using AI to generate anime or movies.
 
 ## Industry
 1. AI
