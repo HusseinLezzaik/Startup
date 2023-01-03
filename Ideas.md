@@ -33,6 +33,8 @@
 32. Restaurants: Make opening a restaurant easy, using robots. You give us the ingredients, food, and we design robots for you. 
 33. Medicine School: fix the system, make it easier for people to study medicine without having big debt, and make it more of an engineering field
 34. Globalism: make it easier to collaborate in business, ex: mrbeast needs translators in each country that are famous, replit wants famous programming youtubers to create courses, etc
+35. Build systems that are collaborative instead of acting on their own to make people more productive.
+36. Social networks like Facebook are one-to-one, and Tiktok concept of one-to-many with followers created influencers that people connect with without really knowing them.
 
 ## Industry
 1. AI
@@ -40,4 +42,4 @@
 3. Synthetic Biology
 4. BioTech
 5. Robotics
-6. 5G 
+6. 5G
