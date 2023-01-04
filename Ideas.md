@@ -44,6 +44,7 @@
 43. Legacy Reservation: wouldn't you wish you could understand general relativity in Eisteins voice? Record all humans voice and literature and link them for future generations
 44. Tech for Women Problems: after birth depression, work and children balance, etc
 45. Make energy generation cheaper, and reduce carbon emissions
+46. Web3: block-chain technology, decentralized and secure networks
 
 ## Industry
 1. AI
@@ -52,3 +53,4 @@
 4. BioTech
 5. Robotics
 6. 5G
+7. Web3
