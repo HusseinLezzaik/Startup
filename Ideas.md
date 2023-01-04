@@ -43,6 +43,7 @@
 42. Virtual Reality for Education: help students visualize electromagnetic waves, discover space, replace zoom for lectures, etc
 43. Legacy Reservation: wouldn't you wish you could understand general relativity in Eisteins voice? Record all humans voice and literature and link them for future generations
 44. Tech for Women Problems: after birth depression, work and children balance, etc
+45. Make energy generation cheaper, and reduce carbon emissions
 
 ## Industry
 1. AI
