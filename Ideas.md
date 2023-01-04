@@ -36,6 +36,8 @@
 35. Build systems that are collaborative instead of acting on their own to make people more productive.
 36. Social networks like Facebook are one-to-one, and Tiktok concept of one-to-many with followers created influencers that people connect with without really knowing them.
 37. Hollywood AI: using AI to generate anime or movies.
+38. AI for Fashion
+39. AI for 3D Design and Analysis like SolidWorks, Ansys
 
 ## Industry
 1. AI
