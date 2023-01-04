@@ -41,6 +41,8 @@
 40. AI for 3D Design and Analysis like SolidWorks, Ansys
 41. AI alignment: make something to control progress in AI so that the worst outcomes don't happen
 42. Virtual Reality for Education: help students visualize electromagnetic waves, discover space, replace zoom for lectures, etc
+43. Legacy Reservation: wouldn't you wish you could understand general relativity in Eisteins voice? Record all humans voice and literature and link them for future generations
+44. Tech for Women Problems: after birth depression, work and children balance, etc
 
 ## Industry
 1. AI
