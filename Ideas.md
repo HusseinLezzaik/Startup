@@ -1,5 +1,5 @@
 ## Ideas
-1. Computer Assistant: tess every command that I write in git prepare them for me as a cheatsheet, book my hotel, do x task for me. As if a human was doing those tasks for you instead.
+1. Computer Assistant: control computers via voice to do all your tasks. Tess every command that I write in git prepare them for me as a cheatsheet, book my hotel, do x task for me. As if a human was doing those tasks for you instead.
 2. Gaining experience to find an internship or job: OS job that's paid
 3. Detecting what's real/fake AI and authentication of data
 4. Make it easy to learn any human language in a native way
