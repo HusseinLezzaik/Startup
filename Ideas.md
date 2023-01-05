@@ -49,6 +49,8 @@
 48. Butterfly robots connected with onboard cameras for tracking
 49. Bullet proof clothes
 50. Human Genomes: change them to cure humans from diseases like cancer
+51. AI for Gym Coach: people can't on average afford to pay for a personal trainer, and depriving people from training
+52. AI for Parenting: Help parents raise great people and solve problem of parents not knowing how to parent their children
 
 ## Industry
 1. AI
