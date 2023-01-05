@@ -1,14 +1,14 @@
 ## Ideas
-1. AI Assistants (Dr, Bank Expert, Math, etc)
+1. Computer Assistant: tess every command that I write in git prepare them for me as a cheatsheet, book my hotel, do x task for me. As if a human was doing those tasks for you instead.
 2. Gaining experience to find an internship or job: OS job that's paid
 3. Detecting what's real/fake AI and authentication of data
-4. Make it easy to learn any language
+4. Make it easy to learn any human language in a native way
 5. Contracting Business (does deployments and implementations)
 6. Frameworks & Tools for AI 
 7. A New Robotics Operating System (Better than ROS)
 8. Help less represented people gain more exposure
 9. Mentors to help teach you anything
-10. AI Consultant ex. as a Lawyer, Accountant
+10. AI Consultant ex. as a Lawyer, Accountant, Math, Bank
 11. Chatbot engineers that help SWE operate on high creative level
 12. Buy anything, anywhere
 13. Make telecommunication cheap in Canada
