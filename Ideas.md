@@ -45,6 +45,7 @@
 44. Tech for Women Problems: after birth depression, work and children balance, etc
 45. Make energy generation cheaper, and reduce carbon emissions
 46. Web3: block-chain technology, decentralized and secure networks
+47. Compiler: write better compilers that make errors and bugs more obvious to solve, across all programming languages
 
 ## Industry
 1. AI
