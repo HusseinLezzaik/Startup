@@ -48,6 +48,7 @@
 47. Compiler: write better compilers that make errors and bugs more obvious to solve, across all programming languages
 48. Butterfly robots connected with onboard cameras for tracking
 49. Bullet proof clothes
+50. Human Genomes: change them to cure humans from diseases like cancer
 
 ## Industry
 1. AI
