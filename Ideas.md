@@ -51,6 +51,7 @@
 50. Human Genomes: change them to cure humans from diseases like cancer
 51. AI for Gym Coach: people can't on average afford to pay for a personal trainer, and depriving people from training
 52. AI for Parenting: Help parents raise great people and solve problem of parents not knowing how to parent their children
+53. Tech for History: something like rootanalysis to validate historical events based on data we have, restore voices, personality, etc
 
 ## Industry
 1. AI
