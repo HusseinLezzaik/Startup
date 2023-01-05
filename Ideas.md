@@ -15,7 +15,7 @@
 14. Realestate: make housing affordable for all, fix system
 15. Fix government resources allocation in capital 
 16. Generate scientific discovery using AI
-17. Smart homes: like TESS from movie Salvation, computes things for you to see on a screen like weather in some place, book hotel for me, check my innboxes and emails
+17. Smart homes as a service: like TESS from movie Salvation, computes things for you to see on a screen like weather in some place, book hotel for me, check my innboxes and emails. Control house and all advanced sensors.
 18. Merging with robots
 19. Talking with animals
 20. Make banks transactions faster and real-time
@@ -46,6 +46,8 @@
 45. Make energy generation cheaper, and reduce carbon emissions
 46. Web3: block-chain technology, decentralized and secure networks
 47. Compiler: write better compilers that make errors and bugs more obvious to solve, across all programming languages
+48. Butterfly robots connected with onboard cameras for tracking
+49. Bullet proof clothes
 
 ## Industry
 1. AI
