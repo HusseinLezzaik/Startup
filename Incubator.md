@@ -2,7 +2,7 @@
 - [YC](https://www.ycombinator.com/)
 - [Pioneer](https://pioneer.app/) accelerator in silicon valley by daniel gross
 - [South Park Commons](https://www.southparkcommons.com/)
-- [OpenAI Fund](https://openai.fund/)
+- [OpenAI Fund](https://openai.fund/) | email: hello@openai.fund
 - [HF0](https://www.hf0.com/) incubator
 - [Antler](https://www.antler.co/canada) focus in Canada
 - [Longevity](https://www.longevity.vc/) fund age-related problems
