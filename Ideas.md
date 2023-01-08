@@ -53,6 +53,7 @@
 52. AI for Parenting: Help parents raise great people and solve problem of parents not knowing how to parent their children
 53. Tech for History: something like rootanalysis to validate historical events based on data we have, restore voices, personality, etc
 54. Design Anti-biotics
+55. Universal Basic Income for everyone
 
 ## Industry
 1. AI
