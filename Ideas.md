@@ -54,6 +54,7 @@
 53. Tech for History: something like rootanalysis to validate historical events based on data we have, restore voices, personality, etc
 54. Design Anti-biotics
 55. Universal Basic Income for everyone
+56. Capture the insights of geniuses and their know-how and share it with the world
 
 ## Industry
 1. AI
