@@ -56,6 +56,8 @@
 55. Universal Basic Income for everyone
 56. Capture the insights of geniuses and their know-how and share it with the world
 57. Solve NP problems using machine learning
+58. Help thirld world countries like Africa to build infrastructure and education
+59. Work on African Market due to high population and big potential of economic growth
 
 ## Industry
 1. AI
