@@ -55,6 +55,7 @@
 54. Design Anti-biotics
 55. Universal Basic Income for everyone
 56. Capture the insights of geniuses and their know-how and share it with the world
+57. Solve NP problems using machine learning
 
 ## Industry
 1. AI
