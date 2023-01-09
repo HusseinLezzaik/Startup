@@ -58,6 +58,7 @@
 57. Solve NP problems using machine learning
 58. Help thirld world countries like Africa to build infrastructure and education
 59. Work on African Market due to high population and big potential of economic growth
+60. Biosynthetic Physiology for robots. Exactly like humans.
 
 ## Industry
 1. AI
