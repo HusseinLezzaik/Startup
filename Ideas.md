@@ -17,7 +17,7 @@
 16. Generate scientific discovery using AI
 17. Smart homes as a service: like TESS from movie Salvation, computes things for you to see on a screen like weather in some place, book hotel for me, check my innboxes and emails. Control house and all advanced sensors.
 18. Merging with robots
-19. Talking with animals
+19. Comprehend communication with animals using AI.
 20. Make banks transactions faster and real-time
 21. Evolving codebases
 22. Fix universities and research system
