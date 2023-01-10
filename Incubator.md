@@ -1,5 +1,6 @@
 ## Incubator | Accelerator | VCs
 - [YC](https://www.ycombinator.com/)
+- [Microsoft for Startups](https://www.microsoft.com/en-us/startups)
 - [Pioneer](https://pioneer.app/) accelerator in silicon valley by daniel gross
 - [South Park Commons](https://www.southparkcommons.com/)
 - [OpenAI Fund](https://openai.fund/) | email: hello@openai.fund
