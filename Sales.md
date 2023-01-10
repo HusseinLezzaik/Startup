@@ -3,6 +3,7 @@
 
 ## Sales
 - [GumRoad](https://gumroad.com/)
+- [Close](https://www.close.com/) CRM built for-growth
 
 ## Copyright
 - [Copy.ai](https://www.copy.ai/)
