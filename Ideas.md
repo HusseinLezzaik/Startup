@@ -68,3 +68,4 @@
 5. Robotics
 6. 5G
 7. Web3
+8. Climate Change
