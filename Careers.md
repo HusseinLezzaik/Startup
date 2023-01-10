@@ -24,7 +24,8 @@
 - What exceptional work have you done in software, hardware or AI?
 - email
 
-## Websites
+## Platforms
 - [Lever](https://www.lever.co/) 
+- [BambooHR](https://www.bamboohr.com/)
 - LinkedIn
 - Glassdoor
