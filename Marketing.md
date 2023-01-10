@@ -1,4 +1,5 @@
 ## Marketing
+- LinkedIn
 - YouTube
 - Twitter 
 - Instagram
