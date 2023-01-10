@@ -4,6 +4,7 @@
 - [South Park Commons](https://www.southparkcommons.com/)
 - [OpenAI Fund](https://openai.fund/) | email: hello@openai.fund
 - [HF0](https://www.hf0.com/) incubator
+- [HeavyBit](https://www.heavybit.com/) early stage dev-tools investor
 - [Antler](https://www.antler.co/canada) focus in Canada
 - [Longevity](https://www.longevity.vc/) fund age-related problems
 - [Radical Ventures](https://radical.vc/) toronto
