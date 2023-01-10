@@ -59,6 +59,7 @@
 58. Help thirld world countries like Africa to build infrastructure and education
 59. Work on African Market due to high population and big potential of economic growth
 60. Biosynthetic Physiology for robots. Exactly like humans.
+61. Tools to understand codebases of new emnployer. Instead of typing `which` a 100 time and reading 100 of confluence pages.
 
 ## Industry
 1. AI
