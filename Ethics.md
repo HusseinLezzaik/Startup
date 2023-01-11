@@ -4,3 +4,5 @@
 - No speaking with media without any approval
 - Not sharing anything related to business with competitors
 - Values dealing with clients and customers
+- Ethics Policy
+- Whiestler Blower Policy
