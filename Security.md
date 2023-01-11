@@ -9,3 +9,4 @@
 - Can't download internal documents onto personal devices
 - Can't open websites like Whatsapp, Tiktok, etc
 - Able to lock and control all employees computers if necessary to block access
+- Protocols to prevent software instalation from hackers and phish software
