@@ -4,14 +4,16 @@
 - [Pioneer](https://pioneer.app/) accelerator in silicon valley by daniel gross
 - [South Park Commons](https://www.southparkcommons.com/)
 - [OpenAI Fund](https://openai.fund/) | email: hello@openai.fund
+- [Andreessen Horowitz](https://a16z.com/)
+- [GreyLock](https://greylock.com/)
 - [HF0](https://www.hf0.com/) incubator
 - [HeavyBit](https://www.heavybit.com/) early stage dev-tools investor
 - [Antler](https://www.antler.co/canada) focus in Canada
+- [Accel](https://www.accel.com/)
 - [Longevity](https://www.longevity.vc/) fund age-related problems
 - [Radical Ventures](https://radical.vc/) toronto
 - [Amplify Partners](https://www.amplifypartners.com/) early-stage VC
 - [Spark Capital](https://www.sparkcapital.com/)
-- [Andreessen Horowitz](https://a16z.com/)
 - [Lux Capital](https://luxcapital.com/)
 - [SV Angel](https://www.svangel.com/)
 - [Initialized](https://initialized.com/)
