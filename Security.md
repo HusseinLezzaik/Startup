@@ -3,6 +3,8 @@
 - Web filters
 
 ## Examples
+- VPN to access company internal tools and servers (Cisco)
+- One unique password to accesss all accounts, protect and change
 - Can't copy code from company and share them via email
 - Can't download internal documents onto personal devices
 - Can't open websites like Whatsapp, Tiktok, etc
