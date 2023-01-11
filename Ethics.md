@@ -5,4 +5,4 @@
 - Not sharing anything related to business with competitors
 - Values dealing with clients and customers
 - Ethics Policy
-- Whiestler Blower Policy
+- Whistler Blower Policy
