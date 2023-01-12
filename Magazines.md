@@ -9,3 +9,4 @@
 - [Washington Post](https://www.washingtonpost.com/)
 - [Reddit](https://www.reddit.com/)
 - [Hacker News](https://news.ycombinator.com/news)
+- [TIME](https://time.com/)
