@@ -9,6 +9,7 @@
 - [HF0](https://www.hf0.com/) incubator
 - [HeavyBit](https://www.heavybit.com/) early stage dev-tools investor
 - [Antler](https://www.antler.co/canada) focus in Canada
+- [AI Fund](https://www.aifund.ai/) Andrew NG
 - [Accel](https://www.accel.com/)
 - [Longevity](https://www.longevity.vc/) fund age-related problems
 - [Radical Ventures](https://radical.vc/) toronto
