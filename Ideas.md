@@ -62,6 +62,7 @@
 61. Tools to understand codebases of new emnployer. Instead of typing `which` a 100 time and reading 100 of confluence pages.
 62. Make eating prepared food easier than buying groceries
 63. Help underepresented people get exposure to different careers options
+64. Solve buying home problem
 
 ## Industry
 1. AI
