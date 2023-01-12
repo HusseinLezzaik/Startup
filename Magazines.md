@@ -1,11 +1,11 @@
 ## Tech Magazines
-- Bloomberg
-- TechCrunch()
-- MIT Technology Review()
+- [Bloomberg](https://www.bloomberg.com/canada)
+- [TechCrunch](https://techcrunch.com/)
+- [MIT Technology Review](https://www.technologyreview.com/)
 - [WIRED](https://www.wired.com/)
 - [VentureBeat](https://venturebeat.com/)
-- Forbes
-- NYT
-- WP
-- Reddit
-- HN
+- [Forbes](https://www.forbes.com/?sh=5f9c64522254)
+- [New York Times](https://www.nytimes.com/)
+- [Washington Post](https://www.washingtonpost.com/)
+- [Reddit](https://www.reddit.com/)
+- [Hacker News](https://news.ycombinator.com/news)
