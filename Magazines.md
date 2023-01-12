@@ -10,3 +10,6 @@
 - [Reddit](https://www.reddit.com/)
 - [Hacker News](https://news.ycombinator.com/news)
 - [TIME](https://time.com/)
+- [Our World in Data](https://ourworldindata.org/)
+- [Science](https://www.science.org/)
+- [Nature](https://www.nature.com/)
