@@ -1,5 +1,11 @@
 ## Tech Magazines
 - Bloomberg
-- TechCrunch
-- MIT Technology Review
+- TechCrunch()
+- MIT Technology Review()
+- [WIRED](https://www.wired.com/)
+- [VentureBeat](https://venturebeat.com/)
 - Forbes
+- NYT
+- WP
+- Reddit
+- HN
