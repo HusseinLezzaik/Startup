@@ -13,3 +13,6 @@
 - [Our World in Data](https://ourworldindata.org/)
 - [Science](https://www.science.org/)
 - [Nature](https://www.nature.com/)
+- [NewYork Post](https://nypost.com/)
+- [Fortune](https://fortune.com/)
+- [Economist](https://www.economist.com/)
