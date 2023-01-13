@@ -45,5 +45,6 @@
 - Stripe: /dev/payments, then Stripe
 - Uber: means an outstanding example looks good for a company with big ambitions, directly from dictionary
 - FAMILY_NAME GROUP
+- StabilityAI: stablize the future, by getting people and society to collaborate and build this next generation tech
   
 How to Create a Brand Name: https://www.youtube.com/watch?v=rzbXht7MJVM
