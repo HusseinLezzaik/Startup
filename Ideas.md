@@ -63,6 +63,7 @@
 62. Make eating prepared food easier than buying groceries
 63. Help underepresented people get exposure to different careers options
 64. Solve buying home problem
+65. Look for inefficiency in our system and automate it with software. Think Lawyers, Accountants, etc. DoNotPay.com for example helps you not pay for a ticket using a robot instead of paying a lawyer.
 
 ## Industry
 1. AI
