@@ -64,6 +64,8 @@
 63. Help underepresented people get exposure to different careers options
 64. Solve buying home problem
 65. Look for inefficiency in our system and automate it with software. Think Lawyers, Accountants, etc. DoNotPay.com for example helps you not pay for a ticket using a robot instead of paying a lawyer.
+66. Create life or different creatures
+67. Make it easier to visit space for the average person
 
 ## Industry
 1. AI
