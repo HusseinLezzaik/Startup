@@ -68,6 +68,7 @@
 67. Make it easier to visit space for the average person
 68. Solve loneliness and the reasons why people have pets
 69. Make it easy to access doctor consulting as cheap as possible
+70. DNA Matching
 
 ## Industry
 1. AI
