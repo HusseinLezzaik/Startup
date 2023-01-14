@@ -66,6 +66,8 @@
 65. Look for inefficiency in our system and automate it with software. Think Lawyers, Accountants, etc. DoNotPay.com for example helps you not pay for a ticket using a robot instead of paying a lawyer.
 66. Create life or different creatures
 67. Make it easier to visit space for the average person
+68. Solve loneliness and the reasons why people have pets
+69. Make it easy to access doctor consulting as cheap as possible
 
 ## Industry
 1. AI
