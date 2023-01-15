@@ -72,6 +72,7 @@
 71. Help 8 billion people have the life style of the top 10% that's full of energy, education, etc. Technology can solve all these problems.
 72. 3D Printing, remove complexity in manufacturing process
 73. Quantum Computing
+74. Solve the problem of thinking everyday what to buy from stores, and what food to eat. Have a subscription based model where using an app or website, you plan your meal for a month in advance and pay a fee. Everything will be delivered for you weekly maybe. You then don't need to worry about eating the right nutrition for you, driving to buy food, etc. Save time for people to focus on doing their things. 
 
 ## Industry
 1. AI
