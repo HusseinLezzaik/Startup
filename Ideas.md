@@ -70,7 +70,7 @@
 69. Make it easy to access doctor consulting as cheap as possible
 70. DNA Matching
 71. Help 8 billion people have the life style of the top 10% that's full of energy, education, etc. Technology can solve all these problems.
-72. 3D Printing
+72. 3D Printing, remove complexity in manufacturing process
 73. Quantum Computing
 
 ## Industry
