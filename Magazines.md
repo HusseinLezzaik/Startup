@@ -18,3 +18,4 @@
 - [Economist](https://www.economist.com/)
 - [Business Insider](https://www.businessinsider.com/)
 - [TechRadar](https://www.techradar.com/pro)
+- [BBC](https://www.bbc.com/)
