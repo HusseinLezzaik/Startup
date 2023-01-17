@@ -19,3 +19,4 @@
 - [Business Insider](https://www.businessinsider.com/)
 - [TechRadar](https://www.techradar.com/pro)
 - [BBC](https://www.bbc.com/)
+- [Hacker Noon](https://hackernoon.com/)
