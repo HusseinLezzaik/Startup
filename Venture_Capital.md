@@ -39,3 +39,4 @@
 - [STV](https://stv.vc/)
 - [A Junior VC](https://ajuniorvc.com/) india
 - [Thiel Fellowship](https://thielfellowship.org/)
+- [Temasek](https://www.temasek.com.sg/en/index)
