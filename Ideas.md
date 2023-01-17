@@ -75,8 +75,8 @@
 74. Solve the problem of thinking everyday what to buy from stores, and what food to eat. Have a subscription based model where using an app or website, you plan your meal for a month in advance and pay a fee. Everything will be delivered for you weekly maybe. You then don't need to worry about eating the right nutrition for you, driving to buy food, etc. Save time for people to focus on doing their things. 
 75. We should get away from the notion of one prescription for all seven billion people on the planet based mostly on their weight. There is much to be done around personalization and targeted medicine. Eliminate symptons based medicine and treatments.
 76. Extract natural resources from the water.
-77. AI 24/7 free physicians
-
+77. AI 24/7 free physicians.
+78. Taking care of elderly people with robotics, and help those without family to help them as well as economics.
 
 ## Industry
 1. AI
