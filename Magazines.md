@@ -20,3 +20,4 @@
 - [TechRadar](https://www.techradar.com/pro)
 - [BBC](https://www.bbc.com/)
 - [Hacker Noon](https://hackernoon.com/)
+- [StrictlyVC](https://www.strictlyvc.com/)
