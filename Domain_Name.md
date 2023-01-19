@@ -14,3 +14,4 @@
 
 ## Notes
 - Amazon: redirects all trafic to amazon.com, from: amazon.org, amazon.ca, amazon.net
+- For beta: `https://beta.character.ai/`
