@@ -21,3 +21,4 @@
 - [BBC](https://www.bbc.com/)
 - [Hacker Noon](https://hackernoon.com/)
 - [StrictlyVC](https://www.strictlyvc.com/)
+- [DeepLearning.ai](https://www.deeplearning.ai/the-batch/)
