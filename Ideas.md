@@ -78,6 +78,7 @@
 77. AI 24/7 free physicians.
 78. Taking care of elderly people with robotics, and help those without family to help them as well as economics.
 79. Solve content creators problem in monitezation like waiting long time to get paid, etc
+80. AI for customer support
 
 ## Industry
 1. AI
