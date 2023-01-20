@@ -48,4 +48,6 @@
 - StabilityAI: stablize the future, by getting people and society to collaborate and build this next generation tech
 - Shopify, Spotify, Expensify, etc: `"-ify"` is often used to convey the idea of making something easier or more efficient
   
+## Drafts
+- AI Assistant: TESS from the movie 
 How to Create a Brand Name: https://www.youtube.com/watch?v=rzbXht7MJVM
