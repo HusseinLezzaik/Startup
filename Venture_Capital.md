@@ -4,6 +4,7 @@
 - [Pioneer](https://pioneer.app/) accelerator in silicon valley by daniel gross
 - [South Park Commons](https://www.southparkcommons.com/)
 - [OpenAI Fund](https://openai.fund/) | email: hello@openai.fund
+- [Nvidia Inception](https://www.nvidia.com/en-us/startups/) help startups
 - [Andreessen Horowitz](https://a16z.com/)
 - [GreyLock](https://greylock.com/)
 - [HF0](https://www.hf0.com/) incubator
