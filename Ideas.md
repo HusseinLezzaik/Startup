@@ -80,6 +80,7 @@
 79. Solve content creators problem in monitezation like waiting long time to get paid, etc
 80. AI for customer support
 81. Nano bots that go inside human, read his subconscious, bio info, etc.
+82. Spotify for Books
 
 ## Industry
 1. AI
