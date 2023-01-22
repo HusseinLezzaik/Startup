@@ -81,6 +81,7 @@
 80. AI for customer support
 81. Nano bots that go inside human, read his subconscious, bio info, etc.
 82. Spotify for Books
+83. Bridge the gap between city and villages other places in terms of wealth, health, education, etc
 
 ## Industry
 1. AI
