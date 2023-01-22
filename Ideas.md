@@ -82,7 +82,7 @@
 81. Nano bots that go inside human, read his subconscious, bio info, etc.
 82. Spotify for Books
 83. Bridge the gap between city and villages other places in terms of wealth, health, education, etc
-84. Match talent with new parents. Since talent is equally distributed globally, what stops lots of people from becoming great founders is the cultural background of their parents. Sam Altman says other thing than OpenAI he'd work on.
+84. Match talent with new parents. Since talent is equally distributed globally, what stops lots of people from becoming great founders is the cultural background of their parents. [Sam Altman, -37mins](https://conversationswithtyler.com/episodes/sam-altman/) says other thing than OpenAI he'd work on.
 
 ## Industry
 1. AI
