@@ -85,6 +85,7 @@
 84. Match talent with new parents. Since talent is equally distributed globally, what stops lots of people from becoming great founders is the cultural background of their parents. [Sam Altman, -37mins](https://conversationswithtyler.com/episodes/sam-altman/) says other thing than OpenAI he'd work on. Can work an AI to take care of people developing these skills and grow
 85. Make living in cities where there's lots of economic opportunities cheaper, by cheaper housing. There's already a high demand market for that
 86. Customer Feedback: always lots of important features that I wish companies implemented, some even do them after time like Whatsapp voice speed, or microsoft markdown text. Make it easier for users to request features and companies scale on them
+87. Education System: sama says that his biggest blessing was loving parents, and education. Lets solve the latter that might solve the former.
 
 ## Industry
 1. AI
