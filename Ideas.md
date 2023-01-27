@@ -87,6 +87,7 @@
 86. Customer Feedback: always lots of important features that I wish companies implemented, some even do them after time like Whatsapp voice speed, or microsoft markdown text. Make it easier for users to request features and companies scale on them
 87. Education System: sama says that his biggest blessing was loving parents, and education. Lets solve the latter that might solve the former.
 88. Fix customer support at Apple, Amazon using AI like ChatGPT
+89. Africa is growing fast, lots of economic opportunity
 
 ## Industry
 1. AI
