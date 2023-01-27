@@ -86,6 +86,7 @@
 85. Make living in cities where there's lots of economic opportunities cheaper, by cheaper housing. There's already a high demand market for that
 86. Customer Feedback: always lots of important features that I wish companies implemented, some even do them after time like Whatsapp voice speed, or microsoft markdown text. Make it easier for users to request features and companies scale on them
 87. Education System: sama says that his biggest blessing was loving parents, and education. Lets solve the latter that might solve the former.
+88. Fix customer support at Apple, Amazon using AI like ChatGPT
 
 ## Industry
 1. AI
