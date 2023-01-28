@@ -88,6 +88,7 @@
 87. Education System: sama says that his biggest blessing was loving parents, and education. Lets solve the latter that might solve the former.
 88. Fix customer support at Apple, Amazon using AI like ChatGPT
 89. Africa is growing fast, lots of economic opportunity
+90. Audiobooks for everybook, using AI generated voice to listen in target voices
 
 ## Industry
 1. AI
