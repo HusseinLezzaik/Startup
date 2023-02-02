@@ -91,6 +91,7 @@
 90. Audiobooks for everybook, using AI generated voice to listen in target voices
 91. Build IDE for LLMs like replit, and knowledge generation for LLMs
 92. LLMs for personalization of content
+93. B2B new employees relocation assistance (what part of the city, expenses, train/bus, etc)
 
 ## Industry
 1. AI

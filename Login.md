@@ -1,0 +1,3 @@
+- [LogMeIn](https://www.logmein.com/)
+- [TeamViewer](https://www.teamviewer.com/en-ca/)
+- [Apple Remote](https://support.apple.com/en-ca/guide/remote-desktop/welcome/mac)

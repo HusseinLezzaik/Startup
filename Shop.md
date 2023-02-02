@@ -1,0 +1,2 @@
+- Shop for features of product like Replit, or Tesla
+- T-shirts, stickers, mugs, hoodies, etc
