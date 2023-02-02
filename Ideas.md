@@ -90,6 +90,7 @@
 89. Africa is growing fast, lots of economic opportunity
 90. Audiobooks for everybook, using AI generated voice to listen in target voices
 91. Build IDE for LLMs like replit, and knowledge generation for LLMs
+92. LLMs for personalization of content
 
 ## Industry
 1. AI
