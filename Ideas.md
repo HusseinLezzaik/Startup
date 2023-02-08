@@ -92,6 +92,7 @@
 91. Build IDE for LLMs like replit, and knowledge generation for LLMs
 92. LLMs for personalization of content
 93. B2B new employees relocation assistance (what part of the city, expenses, train/bus, etc)
+94. Solve emails for people, manage them using AI. 
 
 ## Industry
 1. AI
