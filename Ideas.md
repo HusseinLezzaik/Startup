@@ -93,6 +93,7 @@
 92. LLMs for personalization of content
 93. B2B new employees relocation assistance (what part of the city, expenses, train/bus, etc)
 94. Solve emails for people, manage them using AI. 
+95. Enabling remote robotic work
 
 ## Industry
 1. AI
