@@ -4,6 +4,7 @@
 - [YC Startups Directory](https://www.ycombinator.com/companies?app_video_public=true)
 - [Cofounder Matching, Startup School](https://www.startupschool.org/cofounder-matching)
 - [YCombinator YouTube](https://www.youtube.com/@ycombinator)
+- [YC Research](https://ycr.org/)
 
 ## Internal Tools
 - BookFace
