@@ -42,3 +42,4 @@
 - [Thiel Fellowship](https://thielfellowship.org/)
 - [Founders Fund](https://foundersfund.com/) led by Peter Thiel
 - [Temasek](https://www.temasek.com.sg/en/index)
+- [FirstText](https://www.firsttext.com/) early founders mentorship
