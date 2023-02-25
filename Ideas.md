@@ -94,6 +94,7 @@
 93. B2B new employees relocation assistance (what part of the city, expenses, train/bus, etc)
 94. Solve emails for people, manage them using AI. 
 95. Enabling remote robotic work
+96. Talent Radar: capture nerds or the unknown strong people, by scrapping Twitter/LinkedIn/Github/Web
 
 ## Industry
 1. AI
