@@ -95,6 +95,7 @@
 94. Solve emails for people, manage them using AI. 
 95. Enabling remote robotic work
 96. Talent Radar: capture nerds or the unknown strong people, by scrapping Twitter/LinkedIn/Github/Web
+97. Research as a Service
 
 ## Industry
 1. AI
