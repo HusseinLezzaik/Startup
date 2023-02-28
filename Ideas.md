@@ -96,6 +96,7 @@
 95. Enabling remote robotic work
 96. Talent Radar: capture nerds or the unknown strong people, by scrapping Twitter/LinkedIn/Github/Web
 97. Research as a Service
+98. Diffusion models for generating training sets as a service using LLMs
 
 ## Industry
 1. AI
