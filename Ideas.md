@@ -97,6 +97,7 @@
 96. Talent Radar: capture nerds or the unknown strong people, by scrapping Twitter/LinkedIn/Github/Web
 97. Research as a Service
 98. Diffusion models for generating training sets as a service using LLMs
+99. Autopilot AI products + Copilot AI products
 
 ## Industry
 1. AI
