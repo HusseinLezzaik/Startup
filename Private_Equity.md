@@ -11,3 +11,4 @@
 - [CppInvestments](https://www.cppinvestments.com/) Canadian Pension Plans
 - Chamath Palihapitiya, Founder of Social Capital, Canadian 
 - [ARKInvest](https://linktr.ee/ARKInvest) investment advisor
+- [Bessemer Venture Partners](https://www.bvp.com/)
