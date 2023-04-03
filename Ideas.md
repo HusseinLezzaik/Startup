@@ -98,6 +98,7 @@
 97. Research as a Service
 98. Diffusion models for generating training sets as a service using LLMs
 99. Autopilot AI products + Copilot AI products
+100. AI for Travel Planning; like IBS but instead of traditional OR and CS for NP hard problems, try using AI instead to build a schedule
 
 ## Industry
 1. AI
