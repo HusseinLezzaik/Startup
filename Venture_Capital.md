@@ -44,3 +44,4 @@
 - [Temasek](https://www.temasek.com.sg/en/index)
 - [FirstText](https://www.firsttext.com/) early founders mentorship
 - [Bessemer Venture Partners](https://www.bvp.com/)
+- [Sanabil](https://www.sanabil.com/en/) UAE VC in US and global tech
