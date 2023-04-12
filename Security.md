@@ -1,3 +1,6 @@
+## Platforms
+- [Bug Crowd](https://www.bugcrowd.com/)
+
 ## Tools
 - Firewalls
 - Web filters
