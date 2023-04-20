@@ -101,6 +101,7 @@
 100. AI for Travel Planning; like IBS but instead of traditional OR and CS for NP hard problems, try using AI instead to build a schedule
 101. I always dreamed of traveling the whole world, visiting all the main cultures in the world. Create some business model that enables that. Just like how the founder of Nike had this opportunity when he was young to do so.
 102. Fix luggage lost with airlines
+103. University alternative [sama tweet about US colleges broken](https://twitter.com/sama/status/1505597910053916672) maybe a set of industry interships, along research labs, plus some online courses to prepare for interviews
 
 ## Industry
 1. AI
