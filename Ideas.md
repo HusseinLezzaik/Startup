@@ -107,6 +107,7 @@
 106. Creating synthetic humans, solving marriage issues
 107. Space industry and travel
 108. Increasing GDP and wealth distribution
+109. Video games like Angry Birds
 
 ## Industry
 1. AI
