@@ -102,6 +102,11 @@
 101. I always dreamed of traveling the whole world, visiting all the main cultures in the world. Create some business model that enables that. Just like how the founder of Nike had this opportunity when he was young to do so.
 102. Fix luggage lost with airlines
 103. University alternative [sama tweet about US colleges broken](https://twitter.com/sama/status/1505597910053916672) maybe a set of industry interships, along research labs, plus some online courses to prepare for interviews
+104. Re-writing the economy, rules, laws, make them more complex and better using AI
+105. Defence company to leverage software
+106. Creating synthetic humans, solving marriage issues
+107. Space industry and travel
+108. Increasing GDP and wealth distribution
 
 ## Industry
 1. AI
