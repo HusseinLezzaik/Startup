@@ -108,6 +108,7 @@
 107. Space industry and travel
 108. Increasing GDP and wealth distribution
 109. Video games like Angry Birds
+110. Education Technology, replace universities for good.
 
 ## Industry
 1. AI
