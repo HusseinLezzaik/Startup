@@ -109,6 +109,7 @@
 108. Increasing GDP and wealth distribution
 109. Video games like Angry Birds
 110. Education Technology, replace universities for good.
+111. AI for services instead of software. Its a bigger pie to replace part of a law firm service with AI than to create a software tool to sell for Law firms.
 
 ## Industry
 1. AI
