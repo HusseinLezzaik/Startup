@@ -110,6 +110,7 @@
 109. Video games like Angry Birds
 110. Education Technology, replace universities for good.
 111. AI for services instead of software. Its a bigger pie to replace part of a law firm service with AI than to create a software tool to sell for Law firms.
+112. Imagine new hardware and phones built for AI. Like a new phone where you don't need to type anymore, just scroll like tiktok, you can talk with AI, it can take notes for you, read things for you, add things to your to do list, order stuff, appointments, etc
 
 ## Industry
 1. AI
