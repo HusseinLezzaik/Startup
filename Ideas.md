@@ -118,6 +118,15 @@
 117. Robots that exceed human ability
 118. Slowing aging by 2x
 119. Fusion
+120. Create national social network; where lebanese have to prove their nationality to join the social network. And can easily explore themselves along their contact info.
+121. Software tool to track exponential curves and growth, trends with a nice UI
+122. Fashion industry: people are willing to pay 1000s of dollars for small items that give them a sense of privilige or makes them feel rich. How can we enter the market with some brand and make something new for the rich.
+123. Create services for the rich people and their inner circle. Make their life easier; lots of big margin even though the market isn't extremely big.
+124. Build platforms to connect the popular famous singers with their fans; like 1 on 1s etc
+125. Scale somethinh like Tim Hortons globally
+126. Something like Abdallah but for the whole world
+127. Face matching software for survailance, given an image of someone find all other similar people
+128. Technology for defense and police to increase safety using AI.
 
 ## Industry
 1. AI
