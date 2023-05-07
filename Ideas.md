@@ -127,6 +127,9 @@
 126. Something like Abdallah but for the whole world
 127. Face matching software for survailance, given an image of someone find all other similar people
 128. Technology for defense and police to increase safety using AI.
+129. People will be living more online since brain is connected to the cloud, therefore we can help them find other mates
+130. Create a better way for users to send feedback, feature requests to companise to improve and communicate what they want
+131. Create digital after life for humans
 
 ## Industry
 1. AI
