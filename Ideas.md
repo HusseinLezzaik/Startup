@@ -130,6 +130,8 @@
 129. People will be living more online since brain is connected to the cloud, therefore we can help them find other mates
 130. Create a better way for users to send feedback, feature requests to companise to improve and communicate what they want
 131. Create digital after life for humans
+132. Nanotech and fusion with humans. What the profiles of the future gets wrong is getting over-hyped by the current technologies and missing out on what can have potentially a huge impact.
+133. Biotech
 
 ## Industry
 1. AI
