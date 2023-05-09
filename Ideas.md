@@ -132,6 +132,8 @@
 131. Create digital after life for humans
 132. Nanotech and fusion with humans. What the profiles of the future gets wrong is getting over-hyped by the current technologies and missing out on what can have potentially a huge impact.
 133. Biotech
+134. Match current events algorithm with previous historical ones.
+135. Invsibile hardware: as compute became more powerful, computer began to shrink, and it's by design we use phones. Instead, imagine having something like RewindAI that collects everything from you, and no need for hardware.
 
 ## Industry
 1. AI
