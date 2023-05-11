@@ -134,6 +134,7 @@
 133. Biotech
 134. Match current events algorithm with previous historical ones.
 135. Invsibile hardware: as compute became more powerful, computer began to shrink, and it's by design we use phones. Instead, imagine having something like RewindAI that collects everything from you, and no need for hardware.
+136. Industry research labs like OpenAI, Bell Labs, Xeroc Parc, etc for the new new thing gives lots of competitive advantages
 
 ## Industry
 1. AI
