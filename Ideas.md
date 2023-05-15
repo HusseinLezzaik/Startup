@@ -136,6 +136,12 @@
 135. Invsibile hardware: as compute became more powerful, computer began to shrink, and it's by design we use phones. Instead, imagine having something like RewindAI that collects everything from you, and no need for hardware.
 136. Industry research labs like OpenAI, Bell Labs, Xeroc Parc, etc for the new new thing gives lots of competitive advantages
 137. Telepathy
+138. Clinical trials
+139. Getting better at dealing with pandemics and faster at generating vacines
+140. If covid was engineering, develop datasets and ways to defend variants
+141. Design a new bank system; better business model and more trustable by the people
+142. Create something close to the peter thiel fellowship, or sam altman idea where you assemble a 100 super talented people with 250k a year for 10 years; let them avoid pressure to earn and let them create novel things. it should pay off
+143. Funding talented people for a year or giving off grants to new grad or grad students to work on technical projects is a great way to add more talent into the field, close to the openai model of training researchers
 
 ## Industry
 1. AI
