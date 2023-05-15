@@ -140,8 +140,10 @@
 139. Getting better at dealing with pandemics and faster at generating vacines
 140. If covid was engineering, develop datasets and ways to defend variants
 141. Design a new bank system; better business model and more trustable by the people
-142. Create something close to the peter thiel fellowship, or sam altman idea where you assemble a 100 super talented people with 250k a year for 10 years; let them avoid pressure to earn and let them create novel things. it should pay off
+142. Create something close to the peter thiel fellowship, or sam altman idea where you assemble a 100 super talented people with 250k a year for 10 years; let them avoid pressure to earn and let them create novel things. it should pay off; give them mentors and right set of community. Financial model be like: if you want to become a writer/politician/etc you can freely do that; but if you create a startup we get to invest on pre-defined terms. Close a little to university, but unis are not good at supporting spin-outs.
 143. Funding talented people for a year or giving off grants to new grad or grad students to work on technical projects is a great way to add more talent into the field, close to the openai model of training researchers
+144. Funding model invention, maybe using AI as well
+145. Use AI to allocate capital efficiently, like if we know how to predict cancer research, or what startups to invest in
 
 ## Industry
 1. AI
