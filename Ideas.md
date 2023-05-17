@@ -145,6 +145,7 @@
 144. Funding model invention, maybe using AI as well
 145. Use AI to allocate capital efficiently, like if we know how to predict cancer research, or what startups to invest in
 146. Electric Airplanes or Hydrogen based planes
+147. Fission or fusion as a propellant for rockets
 
 ## Industry
 1. AI
