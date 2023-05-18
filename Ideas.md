@@ -146,6 +146,7 @@
 145. Use AI to allocate capital efficiently, like if we know how to predict cancer research, or what startups to invest in
 146. Electric Airplanes or Hydrogen based planes
 147. Fission or fusion as a propellant for rockets
+148. Underground delivery of goods and services from shops/restaurants/stores directly into homes
 
 ## Industry
 1. AI
