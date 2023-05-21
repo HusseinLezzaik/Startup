@@ -149,6 +149,7 @@
 148. Underground delivery of goods and services from shops/restaurants/stores directly into homes
 149. System that reads data from all over the world and predicts if disasters will happen like the one in turkey, shouldnt be the case that they happen fast..taking into consid everything in history
 150. Make economy flights as good as first clase, too much time wasted should be faster
+151. New bank system that shows in real time its profit, debt, etc
 
 ## Industry
 1. AI
