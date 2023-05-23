@@ -150,6 +150,7 @@
 149. System that reads data from all over the world and predicts if disasters will happen like the one in turkey, shouldnt be the case that they happen fast..taking into consid everything in history
 150. Make economy flights as good as first clase, too much time wasted should be faster
 151. New bank system that shows in real time its profit, debt, etc
+152. Business model to scale restaurants into something like mcdonalds, like pizza place everyone should be able to scale
 
 ## Industry
 1. AI
