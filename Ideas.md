@@ -154,7 +154,7 @@
 153. KPIs for restaurants platform to help them grow and scale and bring technology into it.
 154. Own businesses that trade with high margins, things like water/food/clothes have high margins of profit
 155. Countries are heavily reliable on each other economy wise, maybe one can build an engine to accelerate growth in that direction and make more money
-
+156. Replicate success of McDonalds and Starbucks for food + realstate with something like Abdallah Chicken or Coco or Pizzeria
 ## Industry
 1. AI
 2. Energy
