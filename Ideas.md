@@ -155,6 +155,9 @@
 154. Own businesses that trade with high margins, things like water/food/clothes have high margins of profit
 155. Countries are heavily reliable on each other economy wise, maybe one can build an engine to accelerate growth in that direction and make more money
 156. Replicate success of McDonalds and Starbucks for food + realstate with something like Abdallah Chicken or Coco or Pizzeria
+157. Look for new categories that will be created because of AI. All services will be elevated because of AI. People's throughput will increase.
+158. Bounty programs to find bugs, solve open ended problems, et 
+
 ## Industry
 1. AI
 2. Energy
