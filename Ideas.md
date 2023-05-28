@@ -157,7 +157,7 @@
 156. Replicate success of McDonalds and Starbucks for food + realstate with something like Abdallah Chicken or Coco or Pizzeria
 157. Look for new categories that will be created because of AI. All services will be elevated because of AI. People's throughput will increase.
 158. Bounty programs to find bugs, solve open ended problems, et 
-
+159. Look at what used to be hard to solve is now open thanks to AI.
 ## Industry
 1. AI
 2. Energy
