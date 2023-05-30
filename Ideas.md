@@ -158,6 +158,7 @@
 157. Look for new categories that will be created because of AI. All services will be elevated because of AI. People's throughput will increase.
 158. Bounty programs to find bugs, solve open ended problems, et 
 159. Look at what used to be hard to solve is now open thanks to AI.
+160. YC for restaurants
 ## Industry
 1. AI
 2. Energy
