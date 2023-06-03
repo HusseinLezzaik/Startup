@@ -160,6 +160,8 @@
 159. Look at what used to be hard to solve is now open thanks to AI.
 160. YC for restaurants. Main blocker of most young founders of restaurants is access to capital, and a network like YC. Idea is to create an investment firm for restaurants and then maybe scale into other retailers like Costco or Ikea. Also focus on making these places a world recognized brand like Starbucks, Tims, McDonalds, Abdallah, etc these kind of businesses
 161. Create hyperloop trains like Boring Company, but kind of like Eurostar or essential businesses to connect cities and countries in developed countries.
+162. An everything game. Fun, teaches problem solving, etc.
+
 ## Industry
 1. AI
 2. Energy
