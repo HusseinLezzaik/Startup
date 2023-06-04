@@ -161,6 +161,8 @@
 160. YC for restaurants. Main blocker of most young founders of restaurants is access to capital, and a network like YC. Idea is to create an investment firm for restaurants and then maybe scale into other retailers like Costco or Ikea. Also focus on making these places a world recognized brand like Starbucks, Tims, McDonalds, Abdallah, etc these kind of businesses
 161. Create hyperloop trains like Boring Company, but kind of like Eurostar or essential businesses to connect cities and countries in developed countries.
 162. An everything game. Fun, teaches problem solving, etc.
+163. Nanotech medicine that just goes inside body and heals it like the minimum seduction
+164. Extending brain memory and access to information much faster. Learn chineese over night, connect with machines. Kinda like Neuralink
 
 ## Industry
 1. AI
