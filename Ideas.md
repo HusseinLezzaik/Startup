@@ -162,8 +162,10 @@
 161. Create hyperloop trains like Boring Company, but kind of like Eurostar or essential businesses to connect cities and countries in developed countries.
 162. An everything game. Fun, teaches problem solving, etc.
 163. Nanotech medicine that just goes inside body and heals it like the minimum seduction
-164. Extending brain memory and access to information much faster. Learn chineese over night, connect with machines. Kinda like Neuralink
+164. Extending brain memory and access to information much faster. Learn chinese over night, connect with machines. Kinda like Neuralink
 165. Give computers the ability to smell like humans
+166. Investment firm based off of reading data from the real world. Reading images off of satellites for example for oil companies to predict supply/demand.
+167. Fashion companies spend a lot of money on influencers to promote their goods/services, maybe there's a different way to do this.
 
 ## Industry
 1. AI
