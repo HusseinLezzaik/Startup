@@ -163,6 +163,7 @@
 162. An everything game. Fun, teaches problem solving, etc.
 163. Nanotech medicine that just goes inside body and heals it like the minimum seduction
 164. Extending brain memory and access to information much faster. Learn chineese over night, connect with machines. Kinda like Neuralink
+165. Give computers the ability to smell like humans
 
 ## Industry
 1. AI
