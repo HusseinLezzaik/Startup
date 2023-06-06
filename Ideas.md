@@ -171,6 +171,7 @@
 170. Fix remote work inefficiencies
 171. To solve climate change, come up with an efficient carbon capture method and make cost of power energy cheaper. Use AGI to solve this.
 172. The frontiers of AI Labs compared to academia is in engineering culture + compute/data. But lots of important simple questions that can be asked be academia and would immediately get attention like: how do we measure intelligence/performance, control these models, etc
+173. Now is the golden age of starting a company, probably the best time to be young and luckiest to be a founder. There's an opportunity to create value in a new way, where incumbents might mess up, and many frontiers to be explored for the first time.
 
 ## Industry
 1. AI
