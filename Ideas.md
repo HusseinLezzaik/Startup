@@ -167,6 +167,8 @@
 166. Investment firm based off of reading data from the real world. Reading images off of satellites for example for oil companies to predict supply/demand.
 167. Fashion companies spend a lot of money on influencers to promote their goods/services, maybe there's a different way to do this.
 168. A project to collect customer feedback from users, in the form of voice/text and then summarize using AI so that teams can build new features. A lot of times I find very strong problems that needs to be solved, for example Google Maps on highways. Writing emails is too slow and time consuming on both parties side.
+169. Take care of Nuclear wastes for some exchange of money
+170. Fix remote work inefficiencies
 
 ## Industry
 1. AI
