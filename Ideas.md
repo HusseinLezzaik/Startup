@@ -169,6 +169,8 @@
 168. A project to collect customer feedback from users, in the form of voice/text and then summarize using AI so that teams can build new features. A lot of times I find very strong problems that needs to be solved, for example Google Maps on highways. Writing emails is too slow and time consuming on both parties side.
 169. Take care of Nuclear wastes for some exchange of money
 170. Fix remote work inefficiencies
+171. To solve climate change, come up with an efficient carbon capture method and make cost of power energy cheaper. Use AGI to solve this.
+172. The frontiers of AI Labs compared to academia is in engineering culture + compute/data. But lots of important simple questions that can be asked be academia and would immediately get attention like: how do we measure intelligence/performance, control these models, etc
 
 ## Industry
 1. AI
