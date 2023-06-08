@@ -175,6 +175,7 @@
 174. Do Alchemy by transforming metals into gold.
 175. Black mirrors game engagement level, you disconnect from reality and live inside the game. Feel things in simulation as if real.
 176. Interactive textbooks, where you can chat with them
+177. Digital Currency that emulates the good from bitcoin and captures the market of people using bitcoin to (1) use a currency not controlled by any government (2) anonymity and privacy (3) ease of transactions world wide.
 
 ## Industry
 1. AI
