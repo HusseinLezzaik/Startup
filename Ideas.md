@@ -178,6 +178,7 @@
 177. Digital Currency that emulates the good from bitcoin and captures the market of people using bitcoin to (1) use a currency not controlled by any government (2) anonymity and privacy (3) ease of transactions world wide.
 178. Services for the wealthy only: like private planes and vacations, events, etc small market high margins
 179. Mega-cities: re-imagine urban infrastructure and cities. With remote work lots of economic value is being displaced from one place to another, maybe we can build something that accelerates that or captures that growth somehow.
+180. Modern Democracy: a system that with the use of AI stops wasting tax money of people. Capital allocation will become much more efficient with AI, and intelligence/energy will be cheaper. We may be able to make more money for governments while dropping down the tax rates of people. Also maybe give governments less control in a way that it's no longer an org that noone can compete with.
 
 ## Industry
 1. AI
