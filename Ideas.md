@@ -182,7 +182,8 @@
 181. Faster than light transportation technology, or like the Boring Technology for Space is super important.
 182. Uber Air: something that provides local flights that are much faster, save time from traffic, and affordable. Ideally autonomous electric planes.
 183. Expanding the Economic Bounds of Humankind into space, via making drugs or whatever.
-184. The Electrification of Everything from Sky to Sea
+184. The Electrification of Everything from Sky to Sea.
+185. Making healthcare more personalized, data-driven and using wearables.
 
 ## Industry
 1. AI
