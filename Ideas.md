@@ -184,6 +184,7 @@
 183. Expanding the Economic Bounds of Humankind into space, via making drugs or whatever.
 184. The Electrification of Everything from Sky to Sea.
 185. Making healthcare more personalized, data-driven and using wearables.
+186. Self-healing software and codebases.
 
 ## Industry
 1. AI
