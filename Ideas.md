@@ -185,6 +185,7 @@
 184. The Electrification of Everything from Sky to Sea.
 185. Making healthcare more personalized, data-driven and using wearables.
 186. Self-healing software and codebases.
+187. Non-profits: like Noora Health, biggest problem is getting un-restricted donations, they're at the size of like 400 people, they provide service of saving lives while bringing the cost down. Lots of room for non-profits to operate.
 
 ## Industry
 1. AI
