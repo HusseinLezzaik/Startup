@@ -187,6 +187,10 @@
 186. Self-healing software and codebases.
 187. Non-profits: like Noora Health, biggest problem is getting un-restricted donations, they're at the size of like 400 people, they provide service of saving lives while bringing the cost down. Lots of room for non-profits to operate.
 188. Help people solve depression and become more happier.
+189. Statistics for gamers, and tools to make their lives better.
+190. Nuclear energy factories by extracting carbons
+191. Dis-infection solutions like UVC, but built for a real need.
+192. Medicine: The way people do medicine today is increase specialization, you go to one doctor that then takes you to a different doctor etc.
 
 ## Industry
 1. AI
