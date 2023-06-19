@@ -191,7 +191,7 @@
 190. Nuclear energy factories by extracting carbons
 191. Dis-infection solutions like UVC, but built for a real need.
 192. Medicine: The way people do medicine today is increase specialization, you go to one doctor that then takes you to a different doctor etc.
-193. Doctors Tooling: lots of software takes administrative time by doctors
+193. Doctors Tooling: lots of software takes administrative time by doctors. There is a huge shortage of medical doctors all over the world.
 
 ## Industry
 1. AI
