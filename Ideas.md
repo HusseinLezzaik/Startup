@@ -193,6 +193,7 @@
 192. Medicine: The way people do medicine today is increase specialization, you go to one doctor that then takes you to a different doctor etc.
 193. Doctors Tooling: lots of software takes administrative time by doctors. There is a huge shortage of medical doctors all over the world.
 194. Consulting services like B2B but to adapt and use technology
+195. Fix birth rates, do advanced AI matching for people to get married
 
 ## Industry
 1. AI
