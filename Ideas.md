@@ -194,6 +194,8 @@
 193. Doctors Tooling: lots of software takes administrative time by doctors. There is a huge shortage of medical doctors all over the world.
 194. Consulting services like B2B but to adapt and use technology
 195. Fix birth rates, do advanced AI matching for people to get married
+196. Think about existing products, say electric cars, and how you can make them 100x cheaper.
+197. Many services that the Government uses and pays for, like defense, are incentivized to charge them money and take longer. Andurel tackled this for example and was able to resolve it. Think of more such opportunities.
 
 ## Industry
 1. AI
