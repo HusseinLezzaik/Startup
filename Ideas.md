@@ -199,6 +199,8 @@
 198. Iron Man Suite: flying around
 199. There are many markets that don't exist yet that people don't realize are important like VR that will become important, and also the big problems in societies can become lucrative businesses.
 200. Bio-weapons are going to become very dangerous, two people might be able to create diseases, and we should work on counter attacking that.
+201. Autonomous firefighters systems.
+202. Chief of Staff AI agent
 
 ## Industry
 1. AI
