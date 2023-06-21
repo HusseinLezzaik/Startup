@@ -197,6 +197,8 @@
 196. Think about existing products, say electric cars, and how you can make them 100x cheaper.
 197. Many services that the Government uses and pays for, like defense, are incentivized to charge them money and take longer. Andurel tackled this for example and was able to resolve it. Think of more such opportunities.
 198. Iron Man Suite: flying around
+199. There are many markets that don't exist yet that people don't realize are important like VR that will become important, and also the big problems in societies can become lucrative businesses.
+200. Bio-weapons are going to become very dangerous, two people might be able to create diseases, and we should work on counter attacking that.
 
 ## Industry
 1. AI
