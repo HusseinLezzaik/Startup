@@ -196,6 +196,7 @@
 195. Fix birth rates, do advanced AI matching for people to get married
 196. Think about existing products, say electric cars, and how you can make them 100x cheaper.
 197. Many services that the Government uses and pays for, like defense, are incentivized to charge them money and take longer. Andurel tackled this for example and was able to resolve it. Think of more such opportunities.
+198. Iron Man Suite: flying around
 
 ## Industry
 1. AI
