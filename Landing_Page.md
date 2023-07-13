@@ -5,3 +5,4 @@
 - [Wix](https://www.wix.com/)
 - [Notion](https://www.notion.so/)
 - [SquareSpace](https://www.squarespace.com/)
+- [Framer](https://www.framer.com/)
