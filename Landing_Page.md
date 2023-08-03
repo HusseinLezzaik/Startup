@@ -6,3 +6,8 @@
 - [Notion](https://www.notion.so/)
 - [SquareSpace](https://www.squarespace.com/)
 - [Framer](https://www.framer.com/)
+- Cloudflare
+- Jekyll
+- Gatsby
+- Github pages
+- Tools: HTML, CSS, Javascript, HTML5 UP, Tailwind CSS Templates
